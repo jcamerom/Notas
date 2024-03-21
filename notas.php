@@ -1,4 +1,6 @@
 <?php
+    // Autor: Juan Camero Muñoz
+
     header("Location: index.php");
 
     if(isset($_POST['nota']) && !empty($_POST['nota'])){
