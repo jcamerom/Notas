@@ -1,4 +1,6 @@
 <?php
+    // Autor: Juan Camero Muñoz
+
     // Si el servidor recibe un POST y no está vacío
     if(isset($_POST['nota']) && !empty($_POST['nota'])){
         // Tomamos los datos necesarios
