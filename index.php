@@ -6,6 +6,7 @@
     <title>Prueba Git-Standard</title>
 </head>
 <body>
+    <!-- Autor: Juan Camero Muñoz -->
     <h2>Pequeña API para guardar notas (Standard)</h2>
     <p>Escribe aquí tus notas y las guardaremos en un fichero notas.txt</p>
     <form action="notas.php" method="post">
